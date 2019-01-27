@@ -1,0 +1,32 @@
+ul.slides li {
+  height:350px;
+}
+
+ul.slides li.slide1 a {
+  background:url("/images/doorstop_carousel.png") 0 0 no-repeat;
+  background-size:cover;
+  height:350px;
+  display:block;
+}
+
+ul.slides li.slide2 a {
+  background:url("/images/brisant_carousel.png") 0 0 no-repeat;
+  background-size:cover;
+  height:350px;
+  display:block;
+}
+
+ul.slides li.slide3 a {
+  background:url("/images/eurosecure_carousel.png") 0 0 no-repeat;
+  background-size:cover;
+  height:350px;
+  display:block;
+}
+
+ul.slides li.slideVideo a {
+  background:url("/videos/ident.mp4") 0 0 no-repeat;
+  background-size:cover;
+  height:350px;
+  display:block;
+}
+
